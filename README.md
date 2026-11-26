@@ -1,5 +1,9 @@
 <img src="./banner.svg?v=atembek" alt="atembek.sh — Go / Backend" width="100%" />
 
+<p align="right">
+  <a href="https://atembek-portfolio.atembek-sh.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge" alt="Portfolio ↗" height="28" /></a>
+</p>
+
 <p align="center"><code>Go</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Docker</code> &nbsp; <code>Git</code></p>
 
 <p align="center"><sub>Learning Go. Building a backend mindset.</sub></p>
