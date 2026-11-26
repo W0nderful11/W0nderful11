@@ -8,4 +8,9 @@
 <text x="54" y="149" fill="#f1f5f8" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="700" letter-spacing="-2">Shaimerden Atembek</text>
 <text x="58" y="205" fill="#93aab7" font-family="Arial,Helvetica,sans-serif" font-size="26" letter-spacing="1">Go / Backend</text>
 <path d="M58 252H122" stroke="#74d9ee" stroke-width="3"/>
+  <g>
+    <rect x="866" y="230" width="286" height="54" rx="12" fill="#75d9ee"/>
+    <text x="891" y="267" fill="#10232b" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">Portfolio</text>
+    <path d="M1096 267l20-20m-14 0h14v14" fill="none" stroke="#10232b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
 </svg>
